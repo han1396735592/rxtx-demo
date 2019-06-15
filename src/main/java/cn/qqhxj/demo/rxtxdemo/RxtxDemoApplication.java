@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class RxtxDemoApplication implements SerialDataProcessor<String> {
     @Override
-    public void processor(String s) {
+    public void process (String s) {
         System.out.println(s);
     }
 
