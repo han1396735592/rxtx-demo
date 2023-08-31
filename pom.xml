@@ -24,9 +24,9 @@
         </dependency>
 
         <dependency>
-            <groupId>cn.qqhxj.common</groupId>
+            <groupId>cn.qqhxj.rxtx</groupId>
             <artifactId>spring-boot-starter-rxtx</artifactId>
-            <version>1.3.1-RELEASE</version>
+            <version>3.1.0-RELEASE</version>
         </dependency>
 
         <dependency>

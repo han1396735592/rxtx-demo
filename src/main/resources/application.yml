@@ -1,0 +1,7 @@
+serialport:
+  config:
+#    - port: COM1
+#      baud: 9600
+logging:
+  level:
+    cn.qqhxj: debug
